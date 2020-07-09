@@ -25,6 +25,8 @@ I am a passionate web developer / architect with more than 7 years of experience
 * 👥 I have worked directly and cohesively with clients, creative, business and QA teams.
 * 📖 I love to read as well
 
-📫 https://www.linkedin.com/in/akakro/
-🐦 https://twitter.com/ankurkakroo 
-🌍 https://www.ankurkakroo.in/
+- - - -
+
+📫 https://www.linkedin.com/in/akakro/ <br />
+🐦 https://twitter.com/ankurkakroo <br />
+🌍 https://www.ankurkakroo.in/ <br />
