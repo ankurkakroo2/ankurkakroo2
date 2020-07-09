@@ -19,11 +19,11 @@ I am a passionate web developer / architect with more than 7 years of experience
 
 * 💻 Experience in building and architecting awesome web experiences.
 * ☁ I also love working on Docker, Kubernetes and cloud
-* 🤸‍♂️ I have also extensively worked on Agility, DevOps and CI/CD.
-* 🦾 I have lead big teams in multiple projects spanning across B2B, B2C, Banking, Travel and Finance domains.
+* 🤸‍♂️ Worked on Agility, DevOps and CI/CD.
+* 🦾 I have lead teams in multiple projects spanning across B2B, B2C, Banking, Travel and Finance domains.
 * 🚀 I try to squeeze every ounce of performance from my apps.
 * 👥 I have worked directly and cohesively with clients, creative, business and QA teams.
-* 📖 I love to read as well
+* 📖 Love to read as well
 
 - - - -
 
