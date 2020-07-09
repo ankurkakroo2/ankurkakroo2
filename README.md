@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a passionate web developer / architect with more than 7 years of experience who is fascinated by complex engineering problems, DevOps and UX.
+I am a passionate front-end developer / architect with more than 7 years of experience who is fascinated by complex engineering problems, DevOps and UX.
 
 * 💻 Experience in building and architecting awesome web experiences.
 * ☁ I also love working on Docker, Kubernetes and cloud
