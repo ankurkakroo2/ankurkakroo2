@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A passionate product & customer minded engineering leader with 8.5 years of experience who is fascinated by complex problems, Front end, DevOps and UX.
+A passionate product & customer minded engineering leader who is fascinated by the Web, DevOps and UX.
 
 * 💻  Experience in building and architecting awesome web experiences.
 * ☁  I also love working on Docker, Kubernetes and cloud
