@@ -1,32 +1,37 @@
 ### Hi there 👋, I am Ankur
 
-<!--
-**ankurkakroo2/ankurkakroo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  **AI-First Engineering Leader | Building the Future of Developer Experience**
 
-Here are some ideas to get you started:
+  Director of Engineering at HackerRank, building next-generation AI-powered hiring platforms. 13+ years spanning IC roles through leadership, building high-scale B2C/B2B systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Current Focus
+  - **AI Engineering**: Deep-diving into LLMs, RAG systems, embeddings, and vector databases
+  - **Platform Engineering**: Leading HackerRank's foundational platform architecture (Company OKR #1)
+  - **AI Interviewer**: Zero-to-one product building for next-gen developer assessments
 
-A passionate product & customer minded engineering leader who is fascinated by the Web, DevOps and UX.
+  ## Technical Expertise
+  **Languages:** JavaScript · Python · Ruby
+  **Platforms:** FastAPI · Node.js · React · Next.js · Nest.js · Rails · LangChain
+  **Systems:** Microservices · CI/CD · Observability · Vector DBs · RAG · LLMs · ML Pipelines
+  **Infrastructure:** AWS · GCP · Azure · Kubernetes
+  **Data:** MySQL · Redis · MongoDB · Pinecone · ChromaDB
 
-* 💻  Experience in building and architecting awesome web experiences.
-* ☁  I also love working on Docker, Kubernetes and cloud
-* 🤸‍♂️ Worked on Agility, DevOps and CI/CD.
-* 🦾  I have lead teams in multiple projects spanning across B2B, B2C, Banking, Travel and Finance domains.
-* 🚀  I try to squeeze every ounce of performance from my apps.
-* 👥  I have worked directly and cohesively with clients, creative, business and QA teams.
-* 📖  Love to read as well
+  ## Learning: AI Engineering Mastery
 
-- - - -
+  Executing an **8-week AI engineering curriculum** (Dec 2025 - Feb 2026)
 
-🌍  https://www.ankurkakroo.in/ <br />
-📫  https://www.linkedin.com/in/akakro/ <br />
-🐦  https://twitter.com/ankurkakroo <br />
+  **Follow my progress:** [ai-engineering-journey](https://github.com/ankurkakroo2/ai-engineering-journey)
+  - Week 1: Embeddings & Semantic Search (`rag-code-qa` project)
+  - Week 2-3: Vector Databases & Multi-Tenant SaaS
+  - Week 4-5: Advanced RAG Systems
+  - Week 6-8: MCP Servers & Autonomous Agents
+
+  ## What I Build
+  - **High-scale platforms** serving millions of users
+  - **AI-powered products** from zero-to-one
+  - **Exceptional teams** through mentorship and culture
+
+  ## Connect
+  - 🌐 [Website](https://www.ankurkakroo.in)
+  - 💼 [LinkedIn](https://linkedin.com/in/ankurkakroo)
+  - 📚 [Learning Journey](https://github.com/ankurkakroo2/ai-engineering-journey)
