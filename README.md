@@ -6,7 +6,7 @@
 
   ### Current Focus
   - **AI Engineering**: Deep-diving into LLMs, RAG systems, embeddings, and vector databases
-  - **Platform Engineering**: Leading HackerRank's foundational platform architecture (Company OKR #1)
+  - **Platform Engineering**: Leading HackerRank's platform charter
   - **AI Interviewer**: Zero-to-one product building for next-gen developer assessments
 
   ### Technical Expertise
