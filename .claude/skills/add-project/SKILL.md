@@ -28,6 +28,10 @@ When user provides a GitHub URL, automatically handle the entire process:
    ```
 7. **Update the README** by appending the new project entry to the Current Projects list, maintaining proper formatting
 8. **Confirm** by showing the user the updated Current Projects section with the new entry highlighted
+9. **Push the changes** to GitHub:
+   - Run: `git add README.md`
+   - Run: `git commit -m "Add claude-usage-widget to Current Projects"`
+   - Run: `git push origin master`
 
 ## Format Requirements
 
