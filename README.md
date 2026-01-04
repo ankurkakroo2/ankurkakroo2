@@ -16,7 +16,7 @@
   **Infrastructure:** AWS · GCP · Azure · Kubernetes
   **Data:** MySQL · Redis · MongoDB · Pinecone · ChromaDB
 
-  ### Learning: AI Engineering Mastery
+  ### Learning: AI Engineering
 
   Executing an **8-week AI engineering curriculum** (Dec 2025 - Feb 2026)
 
