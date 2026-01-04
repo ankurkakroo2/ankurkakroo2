@@ -26,10 +26,9 @@
   - Week 4-5: Advanced RAG Systems
   - Week 6-8: MCP Servers & Autonomous Agents
 
-  ### What I Build
-  - **High-scale platforms** serving millions of users
-  - **AI-powered products** from zero-to-one
-  - **Exceptional teams** through mentorship and culture
+  ### Current Projects
+  - 🔍 [rag-code-qa](https://github.com/ankurkakroo2/ai-engineering-journey/tree/main/week-01/project/rag-code-qa) - AI-powered code Q&A system using embeddings and semantic search
+  - 🏠 [local-smart-home-control](https://github.com/ankurkakroo2/local-smart-home-control) - Privacy-first smart home automation with local intelligence
 
   ### Connect
   - 🌐 [Website](https://www.ankurkakroo.in)
