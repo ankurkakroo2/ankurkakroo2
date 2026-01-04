@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Ankur
 
-  **AI-First Engineering Leader | Building the Future of Developer Experience**
+  **AI-First Engineering Leader | Building the Future of Developer Experience @Hackerrank**
 
   Director of Engineering at HackerRank, building next-generation AI-powered hiring platforms. 13+ years spanning IC roles through leadership, building high-scale B2C/B2B systems.
 
