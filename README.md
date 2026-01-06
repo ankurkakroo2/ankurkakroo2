@@ -31,6 +31,7 @@
   - 🏠 [local-smart-home-control](https://github.com/ankurkakroo2/local-smart-home-control) - Privacy-first smart home automation with local intelligence
   - 📊 [claude-usage-widget](https://github.com/ankurkakroo2/claude-usage-widget) - macOS menu-bar widget for Claude API usage tracking
   - 📰 [ai-catchup](https://github.com/ankurkakroo2/ai-catchup) - Terminal CLI for curated AI news with offline caching support
+  - 💼 [portfolio](https://github.com/ankurkakroo2/portfolio) - Modern Next.js portfolio with interactive effects and theme switching
 
   ### Connect
   - 🌐 [Website](https://www.ankurkakroo.in)
