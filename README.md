@@ -27,6 +27,7 @@
   - Week 6-8: MCP Servers & Autonomous Agents
 
   ### Current Projects
+  - 📱 [claudeGo](https://github.com/ankurkakroo2/claudeGo) - Linux server setup for reliable Claude Code on mobile SSH connections
   - 🔍 [rag-code-qa](https://github.com/ankurkakroo2/ai-engineering-journey/tree/main/week-01/project/rag-code-qa) - AI-powered code Q&A system using embeddings and semantic search
   - 🏠 [local-smart-home-control](https://github.com/ankurkakroo2/local-smart-home-control) - Privacy-first smart home automation with local intelligence
   - 📊 [claude-usage-widget](https://github.com/ankurkakroo2/claude-usage-widget) - macOS menu-bar widget for Claude API usage tracking
