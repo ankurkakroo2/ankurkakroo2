@@ -34,6 +34,7 @@
   - 📰 [ai-catchup](https://github.com/ankurkakroo2/ai-catchup) - Terminal CLI for curated AI news with offline caching support
   - 💼 [portfolio](https://github.com/ankurkakroo2/portfolio) - My portfolio with interactive effects and theme switching
   - 🧠 [memory-setup-claude](https://github.com/ankurkakroo2/memory-setup-claude) - Give Claude Code persistent memory across sessions and devices
+  - ✨ [particle-test](https://github.com/ankurkakroo2/particle-test) - Interactive 3D particle simulation with audio-reactive physics
 
   ### Connect
   - 🌐 [Website](https://www.ankurkakroo.in)
