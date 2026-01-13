@@ -38,5 +38,5 @@
 
   ### Connect
   - 🌐 [Website](https://www.ankurkakroo.in)
-  - 💼 [LinkedIn](https://linkedin.com/in/ankurkakroo)
+  - 💼 [LinkedIn](https://linkedin.com/in/akakro/)
   - 📚 [Learning Journey](https://github.com/ankurkakroo2/ai-engineering-journey)
