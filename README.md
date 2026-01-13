@@ -22,9 +22,9 @@
 
   **Follow my progress:** [ai-engineering-journey](https://github.com/ankurkakroo2/ai-engineering-journey)
   - Week 1: Embeddings & Semantic Search (`rag-code-qa` project)
-  - Week 2-3: Vector Databases & Multi-Tenant SaaS
-  - Week 4-5: Advanced RAG Systems
-  - Week 6-8: MCP Servers & Autonomous Agents
+  - Week 2: Vector Databases & Multi-Tenant SaaS
+  - Week 3: Advanced RAG Systems
+  - Week 4: MCP Servers & Autonomous Agents
 
   ### Current Projects
   - 📱 [claudeGo](https://github.com/ankurkakroo2/claudeGo) - Linux server setup for reliable Claude Code on mobile SSH connections
