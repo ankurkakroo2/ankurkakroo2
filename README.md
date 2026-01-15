@@ -35,6 +35,7 @@
   - 💼 [portfolio](https://github.com/ankurkakroo2/portfolio) - My portfolio with interactive effects and theme switching
   - 🧠 [memory-setup-claude](https://github.com/ankurkakroo2/memory-setup-claude) - Give Claude Code persistent memory across sessions and devices
   - ✨ [tremor](https://github.com/ankurkakroo2/tremor) - Interactive 3D particle simulation with audio-reactive physics
+  - 📖 [kindle-dashboard](https://github.com/ankurkakroo2/kindle-dashboard) - E-ink optimized weather and calendar dashboard for Kindle devices
 
   ### Connect
   - 🌐 [Website](https://www.ankurkakroo.in)
