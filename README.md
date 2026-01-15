@@ -27,6 +27,7 @@
   - Week 5: MCP Servers & Autonomous Agents
 
   ### Current Projects
+  - 📖 [kindle-dashboard](https://github.com/ankurkakroo2/kindle-dashboard) - E-ink optimized weather and calendar dashboard for Kindle devices
   - 📱 [claudeGo](https://github.com/ankurkakroo2/claudeGo) - Linux server setup for reliable Claude Code on mobile SSH connections
   - 🔍 [rag-code-qa](https://github.com/ankurkakroo2/ai-engineering-journey/tree/main/week-01/project/rag-code-qa) - AI-powered code Q&A system using embeddings and semantic search
   - 🏠 [local-smart-home-control](https://github.com/ankurkakroo2/local-smart-home-control) - Privacy-first smart home automation with local intelligence
@@ -35,7 +36,6 @@
   - 💼 [portfolio](https://github.com/ankurkakroo2/portfolio) - My portfolio with interactive effects and theme switching
   - 🧠 [memory-setup-claude](https://github.com/ankurkakroo2/memory-setup-claude) - Give Claude Code persistent memory across sessions and devices
   - ✨ [tremor](https://github.com/ankurkakroo2/tremor) - Interactive 3D particle simulation with audio-reactive physics
-  - 📖 [kindle-dashboard](https://github.com/ankurkakroo2/kindle-dashboard) - E-ink optimized weather and calendar dashboard for Kindle devices
 
   ### Connect
   - 🌐 [Website](https://www.ankurkakroo.in)
