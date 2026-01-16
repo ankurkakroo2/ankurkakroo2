@@ -35,6 +35,7 @@
   - 📰 [ai-catchup](https://github.com/ankurkakroo2/ai-catchup) - Fast terminal CLI with interactive React UI for curated AI news, search, and offline caching
   - 💼 [portfolio](https://github.com/ankurkakroo2/portfolio) - My portfolio with interactive effects and theme switching
   - 🧠 [memory-setup-claude](https://github.com/ankurkakroo2/memory-setup-claude) - Give Claude Code persistent memory across sessions and devices
+  - ⚙️ [claude-code-glm-setup](https://github.com/ankurkakroo2/claude-code-glm-setup) - Configure Claude Code CLI with Z.AI GLM models
   - ✨ [tremor](https://github.com/ankurkakroo2/tremor) - Interactive 3D particle simulation with audio-reactive physics
 
   ### Connect
