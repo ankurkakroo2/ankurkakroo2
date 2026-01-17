@@ -28,7 +28,9 @@
 
   ### Current Projects
   - 🔄 [claudecode-antigravity-auth](https://github.com/ankurkakroo2/claudecode-antigravity-auth) - Proxy server enabling Claude Code CLI to use Google Gemini models
+  - ⚙️ [claude-code-glm-setup](https://github.com/ankurkakroo2/claude-code-glm-setup) - Configure Claude Code CLI with Z.AI GLM models
   - 📖 [kindle-dashboard](https://github.com/ankurkakroo2/kindle-dashboard) - E-ink optimized weather and calendar dashboard for Kindle devices
+  - ✨ [tremor](https://github.com/ankurkakroo2/tremor) - Interactive 3D particle simulation with audio-reactive physics
   - 📱 [claudeGo](https://github.com/ankurkakroo2/claudeGo) - Linux server setup for reliable Claude Code on mobile SSH connections
   - 🔍 [rag-code-qa](https://github.com/ankurkakroo2/ai-engineering-journey/tree/main/week-01/project/rag-code-qa) - AI-powered code Q&A system using embeddings and semantic search
   - 🏠 [local-smart-home-control](https://github.com/ankurkakroo2/local-smart-home-control) - Privacy-first smart home automation with local intelligence
@@ -36,8 +38,7 @@
   - 📰 [ai-catchup](https://github.com/ankurkakroo2/ai-catchup) - Fast terminal CLI with interactive React UI for curated AI news, search, and offline caching
   - 💼 [portfolio](https://github.com/ankurkakroo2/portfolio) - My portfolio with interactive effects and theme switching
   - 🧠 [memory-setup-claude](https://github.com/ankurkakroo2/memory-setup-claude) - Give Claude Code persistent memory across sessions and devices
-  - ⚙️ [claude-code-glm-setup](https://github.com/ankurkakroo2/claude-code-glm-setup) - Configure Claude Code CLI with Z.AI GLM models
-  - ✨ [tremor](https://github.com/ankurkakroo2/tremor) - Interactive 3D particle simulation with audio-reactive physics
+
 
   ### Connect
   - 🌐 [Website](https://www.ankurkakroo.in)
