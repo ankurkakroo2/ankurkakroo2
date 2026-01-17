@@ -27,7 +27,7 @@
   - Week 5: MCP Servers & Autonomous Agents
 
   ### Current Projects
-  - 🔐 [claudecode-antigravity-auth](https://github.com/ankurkakroo2/claudecode-antigravity-auth) - Claude Code proxy with Antigravity OAuth for Google Gemini
+  - 🔄 [claudecode-antigravity-auth](https://github.com/ankurkakroo2/claudecode-antigravity-auth) - Proxy server enabling Claude Code CLI to use Google Gemini models
   - 📖 [kindle-dashboard](https://github.com/ankurkakroo2/kindle-dashboard) - E-ink optimized weather and calendar dashboard for Kindle devices
   - 📱 [claudeGo](https://github.com/ankurkakroo2/claudeGo) - Linux server setup for reliable Claude Code on mobile SSH connections
   - 🔍 [rag-code-qa](https://github.com/ankurkakroo2/ai-engineering-journey/tree/main/week-01/project/rag-code-qa) - AI-powered code Q&A system using embeddings and semantic search
