@@ -27,6 +27,7 @@
   - Week 5: MCP Servers & Autonomous Agents
 
   ### Current Projects
+  - 🔌 [r4-exp](https://github.com/ankurkakroo2/r4-exp) - Small Arduino R4 experiments exploring hardware basics
   - 🔄 [claudecode-antigravity-auth](https://github.com/ankurkakroo2/claudecode-antigravity-auth) - Proxy server enabling Claude Code CLI to use Google Gemini models
   - ⚙️ [claude-code-glm-setup](https://github.com/ankurkakroo2/claude-code-glm-setup) - Configure Claude Code CLI with Z.AI GLM models
   - 📖 [kindle-dashboard](https://github.com/ankurkakroo2/kindle-dashboard) - E-ink optimized weather and calendar dashboard for Kindle devices
