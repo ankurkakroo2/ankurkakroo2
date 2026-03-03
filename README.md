@@ -16,15 +16,6 @@
   **Infrastructure:** AWS · GCP · Azure · Kubernetes
   **Data:** MySQL · Redis · MongoDB · Pinecone · ChromaDB
 
-  ### Learning: AI Engineering
-
-  Executing an **5-week AI engineering curriculum** (Dec 2025 - Feb 2026)
-
-  **Follow my progress:** [ai-engineering-journey](https://github.com/ankurkakroo2/ai-engineering-journey)
-  - Week 1: Embeddings & Semantic Search (`rag-code-qa` project)
-  - Week 2-3: Vector Databases & Multi-Tenant SaaS
-  - Week 4: Advanced RAG Systems
-  - Week 5: MCP Servers & Autonomous Agents
 
   ### Current Projects
   - 📝 [diff](https://github.com/ankurkakroo2/diff) - AI-powered CLI tool summarizing GitHub engineering activity across repos
