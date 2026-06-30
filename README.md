@@ -32,6 +32,7 @@
   - 💼 [portfolio](https://github.com/ankurkakroo2/portfolio) - My portfolio with interactive effects and theme switching
   - 🧠 [memory-setup-claude](https://github.com/ankurkakroo2/memory-setup-claude) - Give Claude Code persistent memory across sessions and devices
   - 🍎 [headroom](https://github.com/ankurkakroo2/headroom) - Tiny native macOS menu bar app for memory pressure monitoring
+  - 🤖 [sol](https://github.com/ankurkakroo2/sol) - Minimal coding agent harness built from scratch in Bun + TypeScript
 
 
   ### Connect
